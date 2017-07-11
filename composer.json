@@ -1,0 +1,45 @@
+{
+    "name": "rhosocial/yii2-assets",
+    "description": "The asset bundles used for rhosocial applications.",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2", "extension", "rhosocial", "asset"
+    ],
+    "license": "AGPLv3",
+    "authors": [
+        {
+            "name": "vistart",
+            "email": "i@vistart.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "yiisoft/yii2": ">=2.0.12",
+        "bower/animate.css": ">=3.5.2",
+        "bower/At.js": ">=1.5.4",
+        "bower/bluebird": ">=3.5.0",
+        "bower/blueimp-file-upload": ">=9.18.0",
+        "bower/blueimp-gallery": ">=2.25.2",
+        "bower/bootstrap-markdown": ">=2.10.0",
+        "bower/bootstrap-wysihtml5-bower": ">=0.3.3",
+        "bower/Caret.js": ">=0.3.1",
+        "bower/clipboard.js": ">=0.3.5",
+        "bower/Font-Awesome": ">=4.7.0",
+        "bower/html5shiv": ">=3.7.3",
+        "bower/jplayer": ">=2.9.2",
+        "bower/jquery.cookie": ">=1.4.1",
+        "bower/autosize": ">=3.0.21",
+        "bower/jquery-color": ">=2.1.2",
+        "bower/jquery-knob": ">=1.2.13",
+        "bower/jquery-nicescroll": ">=3.7.4",
+        "bower/jquery-placeholder": ">=2.3.1",
+        "bower/jquery-timeago": ">=1.5.4",
+        "bower/jquery-ui": ">=1.12.1",
+        "bower/nprogress": ">=0.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rhosocial\\assets\\": ""
+        }
+    }
+}
