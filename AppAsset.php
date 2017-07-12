@@ -56,7 +56,6 @@ class AppAsset extends AssetBundle
         YiiAsset::class,
         BootstrapAsset::class,
         BootstrapPluginAsset::class,
-        BootstrapWysihtml5Asset::class,
         BluebirdAsset::class,
         JqueryTimeAgoAsset::class,
         JqueryWidgetAsset::class,
