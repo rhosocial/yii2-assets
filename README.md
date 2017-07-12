@@ -1,2 +1,3 @@
 # yii2-assets
-AssetBundles.
+
+Asset Bundles used for rhosocial applications.
