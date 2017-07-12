@@ -16,7 +16,7 @@
         "php": ">=5.6.0",
         "yiisoft/yii2": ">=2.0.12",
         "bower-asset/animate.css": ">=3.5.2",
-        "bower-asset/At.js": ">=1.5.4",
+        "bower-asset/At.js": ">=1.4.1",
         "bower-asset/bluebird": ">=3.5.0",
         "bower-asset/blueimp-file-upload": ">=9.18.0",
         "bower-asset/blueimp-gallery": ">=2.25.2",
