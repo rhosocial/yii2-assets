@@ -37,6 +37,7 @@ class AppAsset extends AssetBundle
     public $css = [
         'css/temp.css',
         'css/flatelements.css',
+        'css/theme.css',
     ];
 
     /**
