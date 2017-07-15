@@ -22,6 +22,9 @@ use yii\web\AssetBundle;
  */
 class JqueryKnobAsset extends AssetBundle
 {
+    /**
+     * @inheritdoc
+     */
     public $jsOptions = ['position' => View::POS_BEGIN];
 
     /**

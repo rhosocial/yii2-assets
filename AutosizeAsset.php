@@ -20,17 +20,17 @@ use yii\web\AssetBundle;
  * @version 1.0
  * @author vistart <i@vistart.me>
  */
-class JqueryAutosizeAsset extends AssetBundle
+class AutosizeAsset extends AssetBundle
 {
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@bower/autosize';
+    public $sourcePath = '@bower/autosize/dist';
 
     /**
      * @inheritdoc
      */
-    public $js = ['jquery.autosize.min.js'];
+    public $js = ['autosize.js'];
 
     /**
      * @inheritdoc
