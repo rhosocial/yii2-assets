@@ -55,6 +55,7 @@ class AppAsset extends AssetBundle
      */
     public $depends = [
         YiiAsset::class,
+        AutosizeAsset::class,
         BootstrapAsset::class,
         BootstrapPluginAsset::class,
         BluebirdAsset::class,
@@ -67,7 +68,6 @@ class AppAsset extends AssetBundle
         BlueimpGalleryAsset::class,
         JqueryHighlightAsset::class,
         JqueryCookieAsset::class,
-        JqueryAutosizeAsset::class,
         AtJsAsset::class,
         AnimateCssAsset::class,
         NProgressAsset::class,
