@@ -34,7 +34,8 @@
         "bower-asset/jquery-placeholder": ">=2.3.1",
         "bower-asset/jquery-timeago": ">=1.5.4",
         "bower-asset/jquery-ui": ">=1.12.1",
-        "bower-asset/nprogress": ">=0.2.0"
+        "bower-asset/nprogress": ">=0.2.0",
+        "bower-asset/holderjs": ">=2.9.4"
     },
     "autoload": {
         "psr-4": {

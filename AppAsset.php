@@ -74,5 +74,6 @@ class AppAsset extends AssetBundle
         IE9FixesAsset::class,
         IEFixesAsset::class,
         ClipboardJsAsset::class,
+        HolderjsAsset::class,
     ];
 }
