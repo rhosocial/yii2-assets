@@ -23,6 +23,7 @@ This repository relies on the following repositories:
 - jquery-timeago
 - jquery-ui
 - nprogress
+- Holderjs
 
 If you want to know specific dependencies, please click the following button:
 
